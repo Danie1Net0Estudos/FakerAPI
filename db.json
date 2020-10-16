@@ -1,26 +1,26 @@
 {
-  "register_users": [
+  "users": [
     {
-      "id": 1
-      "cpf": "12312312312"
-      "email": "fulano@fulano.com.br"
-      "name": "Fulano"
+      "id": 1,
+      "cpf": "12312312312",
+      "email": "fulano@fulano.com.br",
+      "name": "Fulano",
       "phone": "17911112222",
       "token": "tokenfakerapi" 
     },
     {
-      "id": 2
-      "cpf": "45645645645"
-      "email": "ciclano@ciclano.com.br"
-      "name": "Ciclano"
+      "id": 2,
+      "cpf": "45645645645",
+      "email": "ciclano@ciclano.com.br",
+      "name": "Ciclano",
       "phone": "17933334444",
       "token": "tokenfakerapi" 
     },
     {
-      "id": 3
-      "cpf": "78978978978"
-      "email": "beltrano@beltrano.com.br"
-      "name": "Beltrano"
+      "id": 3,
+      "cpf": "78978978978",
+      "email": "beltrano@beltrano.com.br",
+      "name": "Beltrano",
       "phone": "17955556666",
       "token": "tokenfakerapi" 
     }
